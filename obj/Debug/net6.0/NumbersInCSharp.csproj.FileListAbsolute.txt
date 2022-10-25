@@ -1,0 +1,15 @@
+C:\Users\beatrizrodrigues\Desktop\Tutorial-C-programing\bin\Debug\net6.0\NumbersInCSharp.exe
+C:\Users\beatrizrodrigues\Desktop\Tutorial-C-programing\bin\Debug\net6.0\NumbersInCSharp.deps.json
+C:\Users\beatrizrodrigues\Desktop\Tutorial-C-programing\bin\Debug\net6.0\NumbersInCSharp.runtimeconfig.json
+C:\Users\beatrizrodrigues\Desktop\Tutorial-C-programing\bin\Debug\net6.0\NumbersInCSharp.dll
+C:\Users\beatrizrodrigues\Desktop\Tutorial-C-programing\bin\Debug\net6.0\NumbersInCSharp.pdb
+C:\Users\beatrizrodrigues\Desktop\Tutorial-C-programing\obj\Debug\net6.0\NumbersInCSharp.csproj.AssemblyReference.cache
+C:\Users\beatrizrodrigues\Desktop\Tutorial-C-programing\obj\Debug\net6.0\NumbersInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatrizrodrigues\Desktop\Tutorial-C-programing\obj\Debug\net6.0\NumbersInCSharp.AssemblyInfoInputs.cache
+C:\Users\beatrizrodrigues\Desktop\Tutorial-C-programing\obj\Debug\net6.0\NumbersInCSharp.AssemblyInfo.cs
+C:\Users\beatrizrodrigues\Desktop\Tutorial-C-programing\obj\Debug\net6.0\NumbersInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\beatrizrodrigues\Desktop\Tutorial-C-programing\obj\Debug\net6.0\NumbersInCSharp.dll
+C:\Users\beatrizrodrigues\Desktop\Tutorial-C-programing\obj\Debug\net6.0\refint\NumbersInCSharp.dll
+C:\Users\beatrizrodrigues\Desktop\Tutorial-C-programing\obj\Debug\net6.0\NumbersInCSharp.pdb
+C:\Users\beatrizrodrigues\Desktop\Tutorial-C-programing\obj\Debug\net6.0\NumbersInCSharp.genruntimeconfig.cache
+C:\Users\beatrizrodrigues\Desktop\Tutorial-C-programing\obj\Debug\net6.0\ref\NumbersInCSharp.dll
